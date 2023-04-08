@@ -1,0 +1,29 @@
+{
+  "name": "liuyi-jsoneditor",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm publish .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "jsoneditor": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilugirl/cli-demo-jsoneditor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilugirl/cli-demo-jsoneditor/issues"
+  },
+  "homepage": "https://github.com/lilugirl/cli-demo-jsoneditor#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "liuyi-jsoneditor": "^1.0.2",
+    "open": "0.0.5"
+  }
+}
